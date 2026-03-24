@@ -29,27 +29,7 @@
 ## 📘 Projects & Highlights
 
 - **Employee Attrition Predictor** — Streamlit app with ML used in HR analytics.
-- **XYZ Data Visualizer** — Interactive dashboard with Plotly.
-- **ABC Automation Bot** — Automates reporting and workflow tasks.
 
----
-
-## ✍️ Blog & Writes
-Read my tutorials and posts here:
-- 📝 [Understanding SHAP](https://yourblog.example.com/shap-explained)
-- 📝 [GridSearchCV for Tuning Models](https://yourblog.example.com/gridsearchcv-guide)
-
----
-
-## 🤝 Let's Connect
-
-| Platform        | Username / Profile |
-|----------------|--------------------|
-| GitHub         | [NorvickXX](https://github.com/NorvickXX) |
-| LinkedIn       | [Your Name](https://www.linkedin.com/in/your-linkedin/) |
-| Email          | your.email@example.com |
-
----
 
 ## 🎯 Goals for 2025
 - Build a deployable ML pipeline using Docker and AWS Lambda  
